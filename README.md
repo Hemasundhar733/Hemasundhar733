@@ -1,5 +1,15 @@
+
+<h1 align="center">Hi 👋, I'm Hema Sundhar</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
+
 # 💫 About Me:
-🔭 I’m currently working at Cognizant<br>🌱 I’m currently learning - Next.JS<br>🤝 I’m looking for a new role - Software Engineer<br>⚡ Fun fact - If creativity is an Monalisa, then i will be its Davinci<br><br>      Surfing in my little Audacious Adrenaline Adventure in coding<br>
+- 🔭 I’m currently working at **Cognizant**
+- 🌱 I’m currently learning  **Next.JS**
+- 🤝 I’m looking for a new role **Software Engineer**
+- ⚡ Fun fact  **If creativity is an Monalisa, then i will be its Davinci**
+
+ **Surfing in my little Audacious Adrenaline Adventure in coding**
 
 
 ## 🌐 Socials:
