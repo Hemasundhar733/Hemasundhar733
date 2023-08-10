@@ -10,7 +10,7 @@
 - ⚡ Fun fact  **If creativity is an Monalisa, then i will be its Davinci**
 
  **Surfing in my little Audacious Adrenaline Adventure in coding**
- **🌟 Introducing a software sorcerer hailing from the vibrant realm of India, where cultures dance, spices ignite, and innovation reigns supreme. 🎉**
+ 
 
 
 ## 🌐 Socials:
