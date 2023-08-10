@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at **Cognizant**
 - 🌱 I’m currently learning  **Next.JS**
 - 🤝 I’m looking for a new role **Software Engineer**
-- ⚡ Fun fact  **If creativity is an Monalisa, then i will be its Davinci**
+- ⚡ Fun fact  **If creativity is Monalisa, then i will be its Davinci**
 
  **Surfing in my little Audacious Adrenaline Adventure in coding**
  
