@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Hema+Sundhar;Full-Stack+%7C+Next.js+%7C+AI+%26+Data+Analytics+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Hema+Sundhar;Full-Stack+%7C+Next.js+%7C+AI+%26+Data+Analytics+Expert)](https://git.io/typing-svg)
 
+</div>
 <p>
 <a href="https://www.linkedin.com/in/hema-sundhar-reddy-1b233a1a7/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
